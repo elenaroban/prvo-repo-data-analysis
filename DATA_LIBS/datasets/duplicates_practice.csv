@@ -1,0 +1,19 @@
+Name,Age,City,Salary,Department,Years of Experience,Education
+Alice,25,New York,70000,HR,3,Bachelors
+Bob,30,Los Angeles,80000,Finance,5,Masters
+Charlie,35,Chicago,90000,IT,8,PhD
+David,40,Houston,100000,IT,10,PhD
+Edward,45,Phoenix,110000,Marketing,12,Bachelors
+Alice,25,New York,70000,HR,3,Bachelors
+Bob,30,Los Angeles,80000,Finance,5,Masters
+Frank,28,San Francisco,85000,IT,4,Bachelors
+Grace,33,Chicago,90000,Marketing,6,Masters
+Hannah,38,Houston,95000,HR,7,Bachelors
+Charlie,35,Chicago,90000,IT,8,PhD
+David,40,Houston,100000,IT,10,PhD
+Edward,45,Phoenix,110000,Marketing,12,Bachelors
+Alice,26,New York,72000,HR,4,Masters
+Charlie,35,Chicago,90000,IT,8,PhD
+Alice,25,New York,70000,HR,3,Bachelors
+Charlie,35,Chicago,90000,IT,8,PhD
+David,40,Houston,100000,IT,10,PhD

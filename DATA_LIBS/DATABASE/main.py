@@ -33,11 +33,12 @@ def insert_sale(sesija, employee_id, product_id):
     print("Prodazbata e zabelezana")
     return sale1
 
+print('Novi promeni vo branch')
+ime = input("Vnesete go vaseto ime: ")
+print(f'Zdravo {ime}')
 
 
-#p=insert_product(sesija,"Banani",40)
-#e =insert_employee(sesija,'Stojan','stojan@example.com', 30,'Sales',40000,2)
-#s = insert_sale(sesija, 2, 3)
+
 
 '''emp = sesija.query(Employee).all()
 for employee in emp:
